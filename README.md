@@ -2,8 +2,8 @@
 
 Client for the MovieQL API built with Apollo
 
-Live: <http://workray.github.io/movie-graphql-client>
+Live: <http://sunshine2329.github.io/movie-graphql-client>
 
-Server Code: <https://github.com/workray/movie-graphql>
+Server Code: <https://github.com/sunshine2329/movie-graphql>
 
 Server Url: <https://movie-graphql-server.herokuapp.com/>
